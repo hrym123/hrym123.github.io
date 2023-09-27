@@ -13,15 +13,15 @@ $ hexo new "My New Post"
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+### 启动Hexo
 
-``` bash
-$ hexo server
+```bash
+$ hexo server 
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### 生成静态文件
 
 ``` bash
 $ hexo generate
